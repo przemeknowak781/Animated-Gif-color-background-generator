@@ -1,0 +1,5 @@
+{
+  "name": "GIF Background Generator",
+  "description": "A simple tool to create and download animated GIF backgrounds with custom transitioning colors, dimensions, and speed.",
+  "requestFramePermissions": []
+}
